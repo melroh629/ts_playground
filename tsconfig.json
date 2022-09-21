@@ -1,0 +1,7 @@
+// compile option 작성함
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+    },
+}
