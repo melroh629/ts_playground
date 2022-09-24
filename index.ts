@@ -9,7 +9,7 @@ let 이름3: { name: string, age?: number } = { name: 'kim' }
 // type이 가능한것 들: string, number, boolean, null, undefined, bight, [], {} 등
 
 let 성명: string | number = 'kim'
-//union type : string 혹은 number 가능
+//union type : string 혹은 number 가능 -> 유니온 타입
 
 /* type alias (주로 대문자로 네이밍 함) : type이 너무 길땐 타입을 변수에 담아 쓸수 있음 */
 type MyName = string | number
