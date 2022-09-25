@@ -13,7 +13,7 @@ blah; [];
 //요즘은 유연한 변수를 위해서는 unkown 사용함
 
 let age :string|number;
-나이 + 1 // 이런거 안됨.
+//나이 + 1 // 이런거 안됨.
 
 
 let user :string = "kim";
